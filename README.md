@@ -47,6 +47,8 @@ Installation
 3. Restart SublimeText2
 4. Configure `SublimeREPL` (default settings in `Preferences | Package Settings | SublimeREPL | Settings - Default` should be modified in `Preferences | Package Settings | SublimeREPL | Settings - User`, this way they will survive package upgrades!
 
+If you cannot find `SublimeREPL` in the Install Package list, you probably already have it installed. You can check by clicking Preferences > Browse Packages... and looking for the SublimeREPL folder.
+
 Documentation
 =============
 
